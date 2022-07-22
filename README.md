@@ -2,7 +2,7 @@
 
 I am a Software Engineer @ [Symphony](https://symphony.is).
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/vildan-tursic/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vildantursic-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vildan-tursic/)
 
 
 #### Some of tech stack I am working with
